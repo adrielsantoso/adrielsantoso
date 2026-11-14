@@ -1,11 +1,8 @@
 # Hi, I'm Adriel
 
-Decoding the new world // technology · economy · meaning.<br>
-B.Eng. in Mechanical & Aerospace Engineering, Tohoku University.
-
 ## Now
 
-Working through linear algebra, with daily notes on [X](https://x.com/adrielxsantoso) and [Substack](https://substack.com/@adrielsantoso).
+Working through linear algebra, with daily notes on [X](https://x.com/adrielxsantoso).
 
 ## Upcoming
 
@@ -19,7 +16,5 @@ During a research support role I helped with a quantum sensor network study, [pu
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, C/C++ (basic) |
-| **Embedded** | ESP32, MicroPython, serial, Modbus RTU |
-| **Hardware & CAD** | SOLIDWORKS, 3D printing, soldering |
-| **Testing & CI** | pytest, GitHub Actions |
+| **Languages** | Python, Rust (basic) |
+| **Design & fabrication** | SOLIDWORKS, 3D printing, soldering |
